@@ -212,7 +212,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=198205&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/e9d5bb79523828f72c1d47b050efd1722c0000de...e9d5bb79523828f72c1d47b050efd1722c0000de",
   "build": "198205",
-  "date": "2023-01-04T08:00:20.856106Z"
+  "date": ""
  },
 "sonic-innovium.bin": {
   "url": "",
@@ -524,7 +524,7 @@
 "sonic-centec-arm64.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
