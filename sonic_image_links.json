@@ -145,7 +145,7 @@
 "sonic-centec.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzMwMDkzMi9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=300932&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/fd244514ff7590f6fbe86160238e1ae76d274aca...",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/fd244514ff7590f6fbe86160238e1ae76d274aca...fd244514ff7590f6fbe86160238e1ae76d274aca",
   "build": "300932",
   "date": "2023-06-24T08:00:17.5182113Z"
  },
