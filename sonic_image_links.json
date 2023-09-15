@@ -78,7 +78,7 @@
   "date": "2023-09-15T08:00:31.8392026Z"
  },
 "sonic-marvell-armhf.bin": {
-  "url": "",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzM2MzQ0Ny9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=363447&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/ce7145475d0fe4c850681e15c864781136945803...bb22c0309b82b675a01422d99e0845b9b1de53cf",
   "build": "363447",
