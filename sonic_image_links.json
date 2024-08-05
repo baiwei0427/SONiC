@@ -57,7 +57,7 @@
   "date": "2024-08-05T08:00:45.4945395Z"
  },
 "sonic-centec-arm64.bin": {
-  "url": "null",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzYxMTM1NS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=611355&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/4563c32f5f3e756866706f4c6e056813c3ccdc31...68fc91b804701a034bd4b69e3dca570c1f0e4f70",
   "build": "611355",
